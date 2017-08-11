@@ -1,0 +1,51 @@
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\bin\Debug\Fisher.exe.config
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\bin\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\bin\Debug\Fisher.pdb
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\obj\Debug\Fisher.csprojResolveAssemblyReference.cache
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\obj\Debug\Fisher.Form1.resources
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\obj\Debug\Fisher.Properties.Resources.resources
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\obj\Debug\Fisher.csproj.GenerateResource.Cache
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\obj\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\inf\s6\AI\cw5\Fisher\obj\Debug\Fisher.pdb
+C:\Users\Rysiek\Desktop\cw5\Fisher\bin\Debug\Fisher.exe.config
+C:\Users\Rysiek\Desktop\cw5\Fisher\obj\Debug\Fisher.exe
+C:\Users\Rysiek\Desktop\cw5\Fisher\obj\Debug\Fisher.pdb
+C:\Users\Rysiek\Desktop\cw5\Fisher\bin\Debug\Fisher.exe
+C:\Users\Rysiek\Desktop\cw5\Fisher\bin\Debug\Fisher.pdb
+C:\Users\Rysiek\Desktop\cw5\Fisher\obj\Debug\Fisher.csprojResolveAssemblyReference.cache
+C:\Users\Rysiek\Desktop\cw5\Fisher\obj\Debug\Fisher.Form1.resources
+C:\Users\Rysiek\Desktop\cw5\Fisher\obj\Debug\Fisher.Properties.Resources.resources
+C:\Users\Rysiek\Desktop\cw5\Fisher\obj\Debug\Fisher.csproj.GenerateResource.Cache
+C:\Users\Kamson8\Desktop\cw5\Fisher\bin\Debug\Fisher.exe.config
+C:\Users\Kamson8\Desktop\cw5\Fisher\obj\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\cw5\Fisher\obj\Debug\Fisher.pdb
+C:\Users\Kamson8\Desktop\cw5\Fisher\bin\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\cw5\Fisher\bin\Debug\Fisher.pdb
+C:\Users\Kamson8\Desktop\cw5\Fisher\obj\Debug\Fisher.csprojResolveAssemblyReference.cache
+C:\Users\Kamson8\Desktop\cw5\Fisher\obj\Debug\Fisher.Form1.resources
+C:\Users\Kamson8\Desktop\cw5\Fisher\obj\Debug\Fisher.Properties.Resources.resources
+C:\Users\Kamson8\Desktop\cw5\Fisher\obj\Debug\Fisher.csproj.GenerateResource.Cache
+C:\Users\Kamson8\Desktop\cw5\Fisher\program\bin\Debug\Fisher.exe.config
+C:\Users\Kamson8\Desktop\cw5\Fisher\program\obj\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\cw5\Fisher\program\obj\Debug\Fisher.pdb
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\bin\Debug\Fisher.exe.config
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\obj\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\obj\Debug\Fisher.pdb
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\bin\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\bin\Debug\Fisher.pdb
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\obj\Debug\Fisher.csprojResolveAssemblyReference.cache
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\obj\Debug\Fisher.Form1.resources
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\obj\Debug\Fisher.Properties.Resources.resources
+C:\Users\Kamson8\Desktop\projekty\ai\Fisher\program\obj\Debug\Fisher.csproj.GenerateResource.Cache
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\bin\Debug\Fisher.exe.config
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\obj\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\obj\Debug\Fisher.pdb
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\bin\Debug\Fisher.exe
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\bin\Debug\Fisher.pdb
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\obj\Debug\Fisher.csprojResolveAssemblyReference.cache
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\obj\Debug\Fisher.Form1.resources
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\obj\Debug\Fisher.Properties.Resources.resources
+C:\Users\Kamson8\Desktop\projekty\ai\Metoda Fishera\program\obj\Debug\Fisher.csproj.GenerateResource.Cache
+C:\Users\Kamson8\projekty\Metoda Fishera\Program\bin\Debug\Fisher.exe.config
+C:\Users\Kamson8\projekty\Metoda Fishera\Program\obj\Debug\Fisher.exe
+C:\Users\Kamson8\projekty\Metoda Fishera\Program\obj\Debug\Fisher.pdb
